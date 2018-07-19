@@ -75,16 +75,26 @@ Online Playground - [JsBin](http://jsbin.com)
 
 #### Topics to learn
 
-1. concept of 'this'
+1. Event Delegation
+1. Objects in Detail.
+1. concept of 'this' and quirks of `this`.
 1. Closures
-1. Promises
+1. Making class like structures, using `new` , `this` and functions.
+1. Prototypes and Prototypical Inheritance.
+1. Develop own javascript library.
 1. es6
 1. Functional Javascript
 1. fetch api
+1. promises
+1. async/await
 1. webpack
 1. javascript design patterns (revealing module and pub-sub a must).
-1. eslint, jest
-
+1. tools like eslint, jest and properly learning npm.
+1. Develop modern js lib and publish to npm.
+1. Factory Functions
+1. Regular Expressions
+1. Hoisting
+1. Event Loop
 
 #### Project Suggestions (from easy to hard)
 
@@ -138,7 +148,15 @@ Online Playground - [CodeSandbox](http://codesandbox.io)
 1. Authentication with JWT.
 1. Authentication with express-session.
 1. Jest for Unit Testing and API testing.
+1. How to make own CLI tool.
+1. Advanced pragmatic REST APIs with JOI validations.
 
 #### Project Suggestions (from easy to hard)
+
+1. One page Todo Application. (Make api request from frontend)
+1. Event Manager using templating (Multi Page and has Auth)
+1. API service with rate limiting and acess token (jwt) verification
+1. CLI tool to calculate age.
+1. CLI tool to simulate `ls` command.
 
 Online Playground - [Glitch](https://glitch.com)
