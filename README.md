@@ -1,6 +1,6 @@
 # Summer Skills Curriculum
 
-### Table Of Contents
+### Courses -
 
 1. [HTML and CSS](#html-css)
 1. [Beginner Javascript](#beginner-js)
