@@ -87,6 +87,7 @@ Online Playground - [JsBin](http://jsbin.com)
 1. fetch api
 1. promises
 1. async/await
+1. Concurrency
 1. webpack
 1. javascript design patterns (revealing module and pub-sub a must).
 1. tools like eslint, jest and properly learning npm.
@@ -145,18 +146,22 @@ Online Playground - [CodeSandbox](http://codesandbox.io)
 1. Mongoose for mongodb (use mlab for db instance)
 1. CRUD API with mongoose.
 1. Pragmatic REST APIs.
+1. Concurrency in Single Threaded Environment.
 1. Authentication with JWT.
 1. Authentication with express-session.
+1. OAuth using Passport.
 1. Jest for Unit Testing and API testing.
 1. How to make own CLI tool.
 1. Advanced pragmatic REST APIs with JOI validations.
+1. Read & Write Files.
 
 #### Project Suggestions (from easy to hard)
 
 1. One page Todo Application. (Make api request from frontend)
-1. Event Manager using templating (Multi Page and has Auth)
-1. API service with rate limiting and acess token (jwt) verification
 1. CLI tool to calculate age.
-1. CLI tool to simulate `ls` command.
+1. CLI tool to simulate `ls` command and `tree` command.
+1. CLI tool to read package.json file of project and list all the different dependencies
+1. Anime Progress Tracker with templating (Multi Page and has Auth)
+1. API service with rate limiting and access token (jwt) verification
 
 Online Playground - [Glitch](https://glitch.com)
