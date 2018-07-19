@@ -5,7 +5,7 @@
 1. [Beginner Javascript](#beginner-js)
 
 
-## Beginner Javascript
+## <a id="beginner-js">Beginner Javascript</a>
 
 #### Topics to learn
 
