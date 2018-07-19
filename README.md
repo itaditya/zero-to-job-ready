@@ -6,6 +6,7 @@
 1. [Beginner Javascript](#beginner-js)
 1. [Advanced Javascript](#advanced-js)
 1. [React Js](#reactjs)
+1. [Node](#node)
 
 > The courses have a special focus on things actually used in real projects. After completing a course you are capable of taking Freelance projects. Along the courses, command line, slack, git and github will be used. These tools are a must know in software development.
 
@@ -37,6 +38,8 @@
 1. Landing Page with Bootstrap.
 1. Company Website with Landing Page, Pricing Page, Signup Page and Contact Page (with google maps)
 
+Online Playground - [Codepen](http://codepen.io)
+
 ---
 
 ## <a id="beginner-js">Beginner Javascript</a>
@@ -63,6 +66,8 @@
 1. Mouse tracker
 1. Calculator with one calculation at a time.
 1. Todo App with pure javascript.
+
+Online Playground - [JsBin](http://jsbin.com)
 
 ---
 
@@ -111,3 +116,29 @@
 1. Age Calculator
 1. Todo App
 1. Advanced Todo App with Login, Signup
+
+Online Playground - [CodeSandbox](http://codesandbox.io)
+
+---
+
+## <a id="node">Node</a>
+
+#### Topics to learn
+
+1. Running a javascript file in node.
+1. Making a basic HTTP server (just one GET request)
+1. Separating code in different files.
+1. HTTP server with express.
+1. Use Postman for testing APIs.
+1. Serving static files with express-static.
+1. CRUD APIs (array as in memory db)
+1. Mongoose for mongodb (use mlab for db instance)
+1. CRUD API with mongoose.
+1. Pragmatic REST APIs.
+1. Authentication with JWT.
+1. Authentication with express-session.
+1. Jest for Unit Testing and API testing.
+
+#### Project Suggestions (from easy to hard)
+
+Online Playground - [Glitch](https://glitch.com)
