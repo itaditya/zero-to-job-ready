@@ -63,6 +63,7 @@
 #### Topics to learn
 
 1. Development with CRA.
+1. Event Handling.
 1. Components in separate files.
 1. Concept of State.
 1. Concept of props.
