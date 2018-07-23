@@ -7,6 +7,8 @@
 1. [Advanced Javascript](#advanced-js)
 1. [React Js](#reactjs)
 1. [Node](#node)
+1. [Git](#git)
+1. [Github](#github)
 
 > The courses have a special focus on things actually used in real projects. After completing a course you are capable of taking Freelance projects. Along the courses, command line, slack, git and github will be used. These tools are a must know in software development.
 
@@ -165,3 +167,30 @@ Online Playground - [CodeSandbox](http://codesandbox.io)
 1. API service with rate limiting and access token (jwt) verification
 
 Online Playground - [Glitch](https://glitch.com)
+
+---
+
+## <a id="git">Git</a>
+
+#### Topics to learn
+
+1. Make folder a git repo.
+1. Add and Commit files.
+1. Push commits to remote server like Github or Gitlab.
+1. Pull code from remote server.
+1. Fix merge errors.
+1. Create branches and switch from one to another.
+1. Use .gitignore
+---
+
+## <a id="github">Github</a>
+
+### Topics to learn
+
+1. Connect git repo to github.
+1. Clone github repo.
+1. Push to github.
+1. Markdown and proper Readme files.
+1. Create issues.
+1. Make Pull requests.
+1. Fork repos and do Open Source Contributions.
