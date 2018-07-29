@@ -22,6 +22,7 @@
 1. Embedded Stylesheet and External Stylesheet.
 1. CSS selectors.
 1. Basic CSS rules (background, color, margin, border, text-align, font-size etc.)
+1. px and percentage units.
 1. Chrome DevTools.
 1. Align boxes in same lines.
 1. Box Model
