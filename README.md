@@ -30,6 +30,8 @@
 1. Centering boxes.
 1. HTML Forms and their styling.
 1. Flexbox and Viewport units.
+1. Responsive with media queries.
+1. Responsive with Bootstrap 4 Grid.
 1. Bootstrap 4 (button, grid, cards, forms)
 1. Bootstrap Modals, Tooltips and Carousel
 
