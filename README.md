@@ -9,6 +9,7 @@
 1. [Node](#node)
 1. [Git](#git)
 1. [Github](#github)
+1. [Python](#python)
 
 The courses have a special focus on things actually used in real projects. After completing a course you are capable of taking Freelance projects. Along the courses, command line, slack, git and github will be used. These tools are a must know in software development.
 
@@ -199,3 +200,29 @@ Online Playground - [Glitch](https://glitch.com)
 1. Create issues.
 1. Make Pull requests.
 1. Fork repos and do Open Source Contributions.
+---
+
+## <a id="python">Python</a>
+
+### Topics to learn
+
+1. Python Overview
+1. Environment Setup for Python
+1. Hello World in Python
+1. Variable and Assignments
+1. Basic Operators
+1. Decision Making (if, else)
+1. Loops
+1. Numbers
+1. Strings
+1. Lists
+1. Tuples
+1. Dictionaries
+1. Date & Time
+1. Functions
+1. Files I/O
+1. Exceptions
+
+Tutorial Video - [Python Tutorial for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=422s)
+
+Python 3.8 Documentation - [Documentation](https://docs.python.org/3.8/tutorial/index.html)
