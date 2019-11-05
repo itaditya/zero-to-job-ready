@@ -1,6 +1,6 @@
-# Summer Skills Curriculum
+# Get Job Ready in any domain by practicing these topics.
 
-### Courses -
+### Domains -
 
 1. [HTML and CSS](#html-css)
 1. [Beginner Javascript](#beginner-js)
@@ -10,7 +10,7 @@
 1. [Git](#git)
 1. [Github](#github)
 
-The courses have a special focus on things actually used in real projects. After completing a course you are capable of taking Freelance projects. Along the courses, command line, slack, git and github will be used. These tools are a must know in software development.
+The topics have a special focus on things actually used in real projects. After completing all topics in a domain you are capable of taking Freelance projects. Command line, Slack, Git and GitHub should also be used as these tools are a must know in software development.
 
 > Whenever I was learning, the biggest issue was correct progression. I wasn't sure if task I was choosing for myself was appropriete for me. This is a nice road map. Not too easy, and not impossible to do. - [Paweł Kochanek](https://twitter.com/flagoon2)
 
